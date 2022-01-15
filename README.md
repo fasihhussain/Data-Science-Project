@@ -2,19 +2,23 @@
 
 
 
-**Group Members:**
+## Group Members
 1. Sara Mahmood
 2. Fasih Hussain
 3. Rabeea Atif Rana
 
-**Countries chosen:**
+## Countries
 
-Developed Countries: China and US
+### Developed Countries
+- China
+- US
 
-Developing Countries: Pakistan and Bangladesh
+### Developing Countries
+- Pakistan
+- Bangladesh
 
 
-**Variables Analysed:**
+## Variables Analysed
 
 1. Death rate and CO2 emissions
 2. Death rate and Water Quality
@@ -30,12 +34,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-****
 
 
 
 
-# Column Names:
+## Column Names:
 Year<br>
 CountryName<br>
 CO2 emissions (metric tons per capita): CO2Emissions<br>
