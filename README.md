@@ -1,4 +1,4 @@
-# **Analysis of the Impact of Environmental Variables on the Death Rate in Developing and Developed Countries**
+# Analysis of the Impact of Environmental Variables on the Death Rate in Developing and Developed Countries (Fall 2020)
 
 
 
