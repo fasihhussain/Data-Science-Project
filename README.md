@@ -1,6 +1,6 @@
 # Analysis of the Impact of Environmental Variables on the Death Rate in Developing and Developed Countries (Fall 2020)
 
-
+This project was a part of the course Data Science (CS 457) offered by Dr. Saleha Raza.
 
 ## Group Members
 1. Sara Mahmood
